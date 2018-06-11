@@ -25,6 +25,7 @@ footer {
     border-top: 4px solid #0fa372;
     width: 963px;
     position: fixed;
+    text-align: center;
 }
 
 img {
@@ -129,10 +130,9 @@ button {
 }
 
 .gallery {
-    margin: 5px;
-    border: 1px solid #ccc;
+    margin: 1px;
     float: left;
-    width: 180px;
+    width: 33%;
 }
 
 .gallery:hover {
@@ -147,4 +147,8 @@ button {
 div.desc {
     padding: 15px;
     text-align: center;
+    color: #4aaaa5;
+    font-size: 20px;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
 }
+
